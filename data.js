@@ -1681,5 +1681,527 @@ window.VOCAB_DATA = [
     "bpmf": "ㄌㄧㄢˋ ㄒㄧˊ",
     "repeat": "",
     "icon": "🏃"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "1",
+    "en": "take a look",
+    "zh": "看一看",
+    "bpmf": "ㄎㄢˋ ㄧˊ ㄎㄢˋ",
+    "repeat": "",
+    "icon": "👀"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "2",
+    "en": "shirt",
+    "zh": "襯衫",
+    "bpmf": "ㄔㄣˋ ㄕㄢ",
+    "repeat": "",
+    "icon": "👕"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "3",
+    "en": "shelf",
+    "zh": "架子",
+    "bpmf": "ㄐㄧㄚˋ ㄗ˙",
+    "repeat": "",
+    "icon": "🗄️"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "4",
+    "en": "flower",
+    "zh": "花",
+    "bpmf": "ㄏㄨㄚ",
+    "repeat": "",
+    "icon": "🌸"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "5",
+    "en": "wear / wearing",
+    "zh": "穿／正在穿",
+    "bpmf": "ㄔㄨㄢ／ㄓㄥˋ ㄗㄞˋ ㄔㄨㄢ",
+    "repeat": "",
+    "icon": "👕"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "6",
+    "en": "jacket",
+    "zh": "夾克、外套",
+    "bpmf": "ㄐㄧㄚˊ ㄎㄜˋ、ㄨㄞˋ ㄊㄠˋ",
+    "repeat": "",
+    "icon": "🧥"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "7",
+    "en": "red",
+    "zh": "紅色",
+    "bpmf": "ㄏㄨㄥˊ ㄙㄜˋ",
+    "repeat": "*",
+    "icon": "🔴"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "8",
+    "en": "yellow",
+    "zh": "黃色",
+    "bpmf": "ㄏㄨㄤˊ ㄙㄜˋ",
+    "repeat": "",
+    "icon": "🟡"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "9",
+    "en": "blue",
+    "zh": "藍色",
+    "bpmf": "ㄌㄢˊ ㄙㄜˋ",
+    "repeat": "",
+    "icon": "🔵"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "10",
+    "en": "green",
+    "zh": "綠色",
+    "bpmf": "ㄌㄩˋ ㄙㄜˋ",
+    "repeat": "",
+    "icon": "🟢"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "11",
+    "en": "orange",
+    "zh": "橘色",
+    "bpmf": "ㄐㄩˊ ㄙㄜˋ",
+    "repeat": "",
+    "icon": "🟠"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "12",
+    "en": "white",
+    "zh": "白色",
+    "bpmf": "ㄅㄞˊ ㄙㄜˋ",
+    "repeat": "",
+    "icon": "⚪"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "13",
+    "en": "black",
+    "zh": "黑色",
+    "bpmf": "ㄏㄟ ㄙㄜˋ",
+    "repeat": "",
+    "icon": "⚫"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "14",
+    "en": "pink",
+    "zh": "粉紅色",
+    "bpmf": "ㄈㄣˇ ㄏㄨㄥˊ ㄙㄜˋ",
+    "repeat": "",
+    "icon": "🩷"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "15",
+    "en": "purple",
+    "zh": "紫色",
+    "bpmf": "ㄗˇ ㄙㄜˋ",
+    "repeat": "",
+    "icon": "🟣"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "16",
+    "en": "pretty",
+    "zh": "漂亮的",
+    "bpmf": "ㄆㄧㄠˋ ㄌㄧㄤˋ ㄉㄜ˙",
+    "repeat": "",
+    "icon": "✨"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "17",
+    "en": "star",
+    "zh": "星星",
+    "bpmf": "ㄒㄧㄥ ㄒㄧㄥ",
+    "repeat": "*",
+    "icon": "⭐"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "18",
+    "en": "triangle",
+    "zh": "三角形",
+    "bpmf": "ㄙㄢ ㄐㄧㄠˇ ㄒㄧㄥˊ",
+    "repeat": "",
+    "icon": "🔺"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "19",
+    "en": "little",
+    "zh": "小的",
+    "bpmf": "ㄒㄧㄠˇ ㄉㄜ˙",
+    "repeat": "",
+    "icon": "🤏"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "20",
+    "en": "or",
+    "zh": "或者",
+    "bpmf": "ㄏㄨㄛˋ ㄓㄜˇ",
+    "repeat": "",
+    "icon": "↔️"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "21",
+    "en": "shout",
+    "zh": "大喊",
+    "bpmf": "ㄉㄚˋ ㄏㄢˇ",
+    "repeat": "",
+    "icon": "📣"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "22",
+    "en": "maybe",
+    "zh": "也許、可能",
+    "bpmf": "ㄧㄝˇ ㄒㄩˇ、ㄎㄜˇ ㄋㄥˊ",
+    "repeat": "*",
+    "icon": "🤷"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "23",
+    "en": "dinosaur",
+    "zh": "恐龍",
+    "bpmf": "ㄎㄨㄥˇ ㄌㄨㄥˊ",
+    "repeat": "",
+    "icon": "🦖"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "24",
+    "en": "airplane",
+    "zh": "飛機",
+    "bpmf": "ㄈㄟ ㄐㄧ",
+    "repeat": "",
+    "icon": "✈️"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "25",
+    "en": "spot",
+    "zh": "斑點",
+    "bpmf": "ㄅㄢ ㄉㄧㄢˇ",
+    "repeat": "",
+    "icon": "🔵"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "26",
+    "en": "everywhere",
+    "zh": "到處",
+    "bpmf": "ㄉㄠˋ ㄔㄨˋ",
+    "repeat": "",
+    "icon": "🌍"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "27",
+    "en": "check",
+    "zh": "檢查",
+    "bpmf": "ㄐㄧㄢˇ ㄔㄚˊ",
+    "repeat": "",
+    "icon": "✅"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "28",
+    "en": "below",
+    "zh": "在下面",
+    "bpmf": "ㄗㄞˋ ㄒㄧㄚˋ ㄇㄧㄢˋ",
+    "repeat": "",
+    "icon": "⬇️"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "29",
+    "en": "grass",
+    "zh": "草",
+    "bpmf": "ㄘㄠˇ",
+    "repeat": "",
+    "icon": "🌱"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "30",
+    "en": "butterfly",
+    "zh": "蝴蝶",
+    "bpmf": "ㄏㄨˊ ㄉㄧㄝˊ",
+    "repeat": "",
+    "icon": "🦋"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "31",
+    "en": "big / bigger",
+    "zh": "大的／更大的",
+    "bpmf": "ㄉㄚˋ ㄉㄜ˙／ㄍㄥˋ ㄉㄚˋ ㄉㄜ˙",
+    "repeat": "",
+    "icon": "🐘"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "32",
+    "en": "small",
+    "zh": "小的",
+    "bpmf": "ㄒㄧㄠˇ ㄉㄜ˙",
+    "repeat": "",
+    "icon": "🐭"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "33",
+    "en": "more",
+    "zh": "更多",
+    "bpmf": "ㄍㄥˋ ㄉㄨㄛ",
+    "repeat": "**",
+    "icon": "➕"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "34",
+    "en": "can",
+    "zh": "能、可以",
+    "bpmf": "ㄋㄥˊ、ㄎㄜˇ ㄧˇ",
+    "repeat": "",
+    "icon": "💪"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "35",
+    "en": "paint",
+    "zh": "畫、塗顏料",
+    "bpmf": "ㄏㄨㄚˋ、ㄊㄨˊ ㄧㄢˊ ㄌㄧㄠˋ",
+    "repeat": "*",
+    "icon": "🎨"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "36",
+    "en": "conclusion",
+    "zh": "結論",
+    "bpmf": "ㄐㄧㄝˊ ㄌㄨㄣˋ",
+    "repeat": "",
+    "icon": "🏁"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "37",
+    "en": "know",
+    "zh": "知道",
+    "bpmf": "ㄓ ㄉㄠˋ",
+    "repeat": "",
+    "icon": "🧠"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "38",
+    "en": "wheel",
+    "zh": "輪子",
+    "bpmf": "ㄌㄨㄣˊ ㄗ˙",
+    "repeat": "",
+    "icon": "🛞"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "39",
+    "en": "between",
+    "zh": "在……之間",
+    "bpmf": "ㄗㄞˋ……ㄓ ㄐㄧㄢ",
+    "repeat": "",
+    "icon": "↔️"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "40",
+    "en": "like",
+    "zh": "喜歡、像",
+    "bpmf": "ㄒㄧˇ ㄏㄨㄢ、ㄒㄧㄤˋ",
+    "repeat": "",
+    "icon": "👍"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "41",
+    "en": "close",
+    "zh": "關上、靠近",
+    "bpmf": "ㄍㄨㄢ ㄕㄤˋ、ㄎㄠˋ ㄐㄧㄣˋ",
+    "repeat": "",
+    "icon": "🚪"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "42",
+    "en": "figure out",
+    "zh": "想出、弄清楚",
+    "bpmf": "ㄒㄧㄤˇ ㄔㄨ、ㄋㄨㄥˋ ㄑㄧㄥ ㄔㄨˇ",
+    "repeat": "",
+    "icon": "💡"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "43",
+    "en": "count",
+    "zh": "數數",
+    "bpmf": "ㄕㄨˇ ㄕㄨˋ",
+    "repeat": "",
+    "icon": "🔢"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "44",
+    "en": "far",
+    "zh": "遠的",
+    "bpmf": "ㄩㄢˇ ㄉㄜ˙",
+    "repeat": "",
+    "icon": "🔭"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "45",
+    "en": "away from",
+    "zh": "遠離",
+    "bpmf": "ㄩㄢˇ ㄌㄧˊ",
+    "repeat": "",
+    "icon": "↗️"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "46",
+    "en": "gorilla",
+    "zh": "大猩猩",
+    "bpmf": "ㄉㄚˋ ㄒㄧㄥ ㄒㄧㄥ",
+    "repeat": "",
+    "icon": "🦍"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "47",
+    "en": "iguana",
+    "zh": "鬣蜥",
+    "bpmf": "ㄌㄧㄝˋ ㄒㄧ",
+    "repeat": "",
+    "icon": "🦎"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "48",
+    "en": "horse",
+    "zh": "馬",
+    "bpmf": "ㄇㄚˇ",
+    "repeat": "",
+    "icon": "🐴"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "49",
+    "en": "house",
+    "zh": "房子、家",
+    "bpmf": "ㄈㄤˊ ㄗ˙、ㄐㄧㄚ",
+    "repeat": "*",
+    "icon": "🏠"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "50",
+    "en": "run",
+    "zh": "跑",
+    "bpmf": "ㄆㄠˇ",
+    "repeat": "",
+    "icon": "🏃"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "51",
+    "en": "pound",
+    "zh": "磅、重擊",
+    "bpmf": "ㄅㄤˋ、ㄓㄨㄥˋ ㄐㄧˊ",
+    "repeat": "",
+    "icon": "⚖️"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "52",
+    "en": "lick",
+    "zh": "舔",
+    "bpmf": "ㄊㄧㄢˇ",
+    "repeat": "",
+    "icon": "👅"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "53",
+    "en": "grrr",
+    "zh": "吼！",
+    "bpmf": "ㄏㄡˇ",
+    "repeat": "",
+    "icon": "🐯"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "54",
+    "en": "goat",
+    "zh": "山羊",
+    "bpmf": "ㄕㄢ ㄧㄤˊ",
+    "repeat": "",
+    "icon": "🐐"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "55",
+    "en": "guitar",
+    "zh": "吉他",
+    "bpmf": "ㄐㄧˊ ㄊㄚ",
+    "repeat": "",
+    "icon": "🎸"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "56",
+    "en": "hat",
+    "zh": "帽子",
+    "bpmf": "ㄇㄠˋ ㄗ˙",
+    "repeat": "",
+    "icon": "🎩"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "57",
+    "en": "ink",
+    "zh": "墨水",
+    "bpmf": "ㄇㄛˋ ㄕㄨㄟˇ",
+    "repeat": "",
+    "icon": "🖋️"
+  },
+  {
+    "lesson": "Lesson 4",
+    "no": "58",
+    "en": "igloo",
+    "zh": "冰屋",
+    "bpmf": "ㄅㄧㄥ ㄨ",
+    "repeat": "",
+    "icon": "🧊"
   }
 ];
