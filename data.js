@@ -2203,5 +2203,230 @@ window.VOCAB_DATA = [
     "bpmf": "ㄅㄧㄥ ㄨ",
     "repeat": "",
     "icon": "🧊"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "1",
+    "en": "shape",
+    "zh": "形狀",
+    "bpmf": "ㄒㄧㄥˊ ㄓㄨㄤˋ",
+    "repeat": "",
+    "icon": "🔷"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "2",
+    "en": "bike",
+    "zh": "腳踏車、自行車",
+    "bpmf": "ㄐㄧㄠˇ ㄊㄚˋ ㄔㄜ、ㄗˋ ㄒㄧㄥˊ ㄔㄜ",
+    "repeat": "",
+    "icon": "🚲"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "3",
+    "en": "wheel",
+    "zh": "輪子",
+    "bpmf": "ㄌㄨㄣˊ ㄗ˙",
+    "repeat": "*",
+    "icon": "🛞"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "4",
+    "en": "present",
+    "zh": "禮物",
+    "bpmf": "ㄌㄧˇ ㄨˋ",
+    "repeat": "",
+    "icon": "🎁"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "5",
+    "en": "pretty",
+    "zh": "漂亮的",
+    "bpmf": "ㄆㄧㄠˋ ㄌㄧㄤˋ ㄉㄜ˙",
+    "repeat": "*",
+    "icon": "✨"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "6",
+    "en": "shining",
+    "zh": "閃亮的",
+    "bpmf": "ㄕㄢˇ ㄌㄧㄤˋ ㄉㄜ˙",
+    "repeat": "",
+    "icon": "✨"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "7",
+    "en": "teddy bear",
+    "zh": "泰迪熊",
+    "bpmf": "ㄊㄞˋ ㄉㄧˊ ㄒㄩㄥˊ",
+    "repeat": "",
+    "icon": "🧸"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "8",
+    "en": "sand",
+    "zh": "沙子",
+    "bpmf": "ㄕㄚ ㄗ˙",
+    "repeat": "",
+    "icon": "🏖️"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "9",
+    "en": "water",
+    "zh": "水",
+    "bpmf": "ㄕㄨㄟˇ",
+    "repeat": "",
+    "icon": "💧"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "10",
+    "en": "boat",
+    "zh": "船",
+    "bpmf": "ㄔㄨㄢˊ",
+    "repeat": "",
+    "icon": "⛵"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "11",
+    "en": "beach",
+    "zh": "海灘",
+    "bpmf": "ㄏㄞˇ ㄊㄢ",
+    "repeat": "",
+    "icon": "🏝️"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "12",
+    "en": "path",
+    "zh": "小路、路徑",
+    "bpmf": "ㄒㄧㄠˇ ㄌㄨˋ、ㄌㄨˋ ㄐㄧㄥˋ",
+    "repeat": "",
+    "icon": "🛤️"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "13",
+    "en": "cube",
+    "zh": "立方體",
+    "bpmf": "ㄌㄧˋ ㄈㄤ ㄊㄧˇ",
+    "repeat": "",
+    "icon": "🧊"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "14",
+    "en": "fish",
+    "zh": "魚",
+    "bpmf": "ㄩˊ",
+    "repeat": "",
+    "icon": "🐟"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "15",
+    "en": "feather",
+    "zh": "羽毛",
+    "bpmf": "ㄩˇ ㄇㄠˊ",
+    "repeat": "",
+    "icon": "🪶"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "16",
+    "en": "pyramid",
+    "zh": "金字塔、角錐",
+    "bpmf": "ㄐㄧㄣ ㄗˋ ㄊㄚˇ、ㄐㄧㄠˇ ㄓㄨㄟ",
+    "repeat": "",
+    "icon": "🔺"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "17",
+    "en": "wood",
+    "zh": "木頭",
+    "bpmf": "ㄇㄨˋ ㄊㄡ˙",
+    "repeat": "",
+    "icon": "🪵"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "18",
+    "en": "pie",
+    "zh": "派、餡餅",
+    "bpmf": "ㄆㄞˋ、ㄒㄧㄢˋ ㄅㄧㄥˇ",
+    "repeat": "",
+    "icon": "🥧"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "19",
+    "en": "bread",
+    "zh": "麵包",
+    "bpmf": "ㄇㄧㄢˋ ㄅㄠ",
+    "repeat": "",
+    "icon": "🍞"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "20",
+    "en": "coin",
+    "zh": "硬幣",
+    "bpmf": "ㄧㄥˋ ㄅㄧˋ",
+    "repeat": "",
+    "icon": "🪙"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "21",
+    "en": "earth",
+    "zh": "地球、土地",
+    "bpmf": "ㄉㄧˋ ㄑㄧㄡˊ、ㄊㄨˇ ㄉㄧˋ",
+    "repeat": "",
+    "icon": "🌍"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "22",
+    "en": "ice cube",
+    "zh": "冰塊",
+    "bpmf": "ㄅㄧㄥ ㄎㄨㄞˋ",
+    "repeat": "",
+    "icon": "🧊"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "23",
+    "en": "belongs on",
+    "zh": "應該放在……上面",
+    "bpmf": "ㄧㄥ ㄍㄞ ㄈㄤˋ ㄗㄞˋ……ㄕㄤˋ ㄇㄧㄢˋ",
+    "repeat": "",
+    "icon": "📍"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "24",
+    "en": "house",
+    "zh": "房子、家",
+    "bpmf": "ㄈㄤˊ ㄗ˙、ㄐㄧㄚ",
+    "repeat": "**",
+    "icon": "🏠"
+  },
+  {
+    "lesson": "Lesson 5",
+    "no": "25",
+    "en": "on our own",
+    "zh": "靠我們自己",
+    "bpmf": "ㄎㄠˋ ㄨㄛˇ ㄇㄣ˙ ㄗˋ ㄐㄧˇ",
+    "repeat": "",
+    "icon": "💪"
   }
 ];
