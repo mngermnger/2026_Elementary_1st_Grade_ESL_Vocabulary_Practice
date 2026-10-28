@@ -2360,11 +2360,11 @@ window.VOCAB_DATA = [
   {
     "lesson": "Lesson 5",
     "no": "18",
-    "en": "pie",
-    "zh": "派、餡餅",
-    "bpmf": "ㄆㄞˋ、ㄒㄧㄢˋ ㄅㄧㄥˇ",
+    "en": "piece",
+    "zh": "一片、一塊",
+    "bpmf": "ㄧˊ ㄆㄧㄢˋ、ㄧˊ ㄎㄨㄞˋ",
     "repeat": "",
-    "icon": "🥧"
+    "icon": "🧩"
   },
   {
     "lesson": "Lesson 5",
