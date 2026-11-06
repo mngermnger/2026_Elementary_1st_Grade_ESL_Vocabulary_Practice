@@ -2428,5 +2428,375 @@ window.VOCAB_DATA = [
     "bpmf": "ㄎㄠˋ ㄨㄛˇ ㄇㄣ˙ ㄗˋ ㄐㄧˇ",
     "repeat": "",
     "icon": "💪"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "1",
+    "en": "food",
+    "zh": "食物",
+    "bpmf": "ㄕˊ ㄨˋ",
+    "repeat": "",
+    "icon": "🍽️"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "2",
+    "en": "rice",
+    "zh": "米飯",
+    "bpmf": "ㄇㄧˇ ㄈㄢˋ",
+    "repeat": "",
+    "icon": "🍚"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "3",
+    "en": "hamburgers",
+    "zh": "漢堡",
+    "bpmf": "ㄏㄢˋ ㄅㄠˇ",
+    "repeat": "",
+    "icon": "🍔"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "4",
+    "en": "tasty / taste",
+    "zh": "好吃的／味道、品嚐",
+    "bpmf": "ㄏㄠˇ ㄔ ㄉㄜ˙／ㄨㄟˋ ㄉㄠˋ、ㄆㄧㄣˇ ㄔㄤˊ",
+    "repeat": "",
+    "icon": "😋"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "5",
+    "en": "noodles",
+    "zh": "麵條",
+    "bpmf": "ㄇㄧㄢˋ ㄊㄧㄠˊ",
+    "repeat": "",
+    "icon": "🍜"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "6",
+    "en": "bowl",
+    "zh": "碗",
+    "bpmf": "ㄨㄢˇ",
+    "repeat": "",
+    "icon": "🥣"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "7",
+    "en": "health",
+    "zh": "健康",
+    "bpmf": "ㄐㄧㄢˋ ㄎㄤ",
+    "repeat": "",
+    "icon": "❤️"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "8",
+    "en": "broccoli",
+    "zh": "青花菜",
+    "bpmf": "ㄑㄧㄥ ㄏㄨㄚ ㄘㄞˋ",
+    "repeat": "",
+    "icon": "🥦"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "9",
+    "en": "cucumber",
+    "zh": "小黃瓜",
+    "bpmf": "ㄒㄧㄠˇ ㄏㄨㄤˊ ㄍㄨㄚ",
+    "repeat": "",
+    "icon": "🥒"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "10",
+    "en": "carrot",
+    "zh": "胡蘿蔔",
+    "bpmf": "ㄏㄨˊ ㄌㄨㄛˊ ㄅㄛ˙",
+    "repeat": "",
+    "icon": "🥕"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "11",
+    "en": "drink",
+    "zh": "喝、飲料",
+    "bpmf": "ㄏㄜ、ㄧㄣˇ ㄌㄧㄠˋ",
+    "repeat": "",
+    "icon": "🥤"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "12",
+    "en": "like",
+    "zh": "喜歡、像",
+    "bpmf": "ㄒㄧˇ ㄏㄨㄢ、ㄒㄧㄤˋ",
+    "repeat": "*",
+    "icon": "👍"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "13",
+    "en": "about",
+    "zh": "關於、大約",
+    "bpmf": "ㄍㄨㄢ ㄩˊ、ㄉㄚˋ ㄩㄝ",
+    "repeat": "",
+    "icon": "💬"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "14",
+    "en": "fruit",
+    "zh": "水果",
+    "bpmf": "ㄕㄨㄟˇ ㄍㄨㄛˇ",
+    "repeat": "",
+    "icon": "🍎"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "15",
+    "en": "pizza",
+    "zh": "披薩",
+    "bpmf": "ㄆㄧ ㄙㄚˋ",
+    "repeat": "",
+    "icon": "🍕"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "16",
+    "en": "juice",
+    "zh": "果汁",
+    "bpmf": "ㄍㄨㄛˇ ㄓ",
+    "repeat": "",
+    "icon": "🧃"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "17",
+    "en": "vegetables",
+    "zh": "蔬菜",
+    "bpmf": "ㄕㄨ ㄘㄞˋ",
+    "repeat": "",
+    "icon": "🥬"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "18",
+    "en": "water",
+    "zh": "水",
+    "bpmf": "ㄕㄨㄟˇ",
+    "repeat": "*",
+    "icon": "💧"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "19",
+    "en": "finally",
+    "zh": "最後、終於",
+    "bpmf": "ㄗㄨㄟˋ ㄏㄡˋ、ㄓㄨㄥ ㄩˊ",
+    "repeat": "",
+    "icon": "🏁"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "20",
+    "en": "time",
+    "zh": "時間",
+    "bpmf": "ㄕˊ ㄐㄧㄢ",
+    "repeat": "*",
+    "icon": "⏰"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "21",
+    "en": "if",
+    "zh": "如果",
+    "bpmf": "ㄖㄨˊ ㄍㄨㄛˇ",
+    "repeat": "",
+    "icon": "❓"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "22",
+    "en": "would",
+    "zh": "將會、會",
+    "bpmf": "ㄐㄧㄤ ㄏㄨㄟˋ、ㄏㄨㄟˋ",
+    "repeat": "",
+    "icon": "💭"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "23",
+    "en": "eat",
+    "zh": "吃",
+    "bpmf": "ㄔ",
+    "repeat": "",
+    "icon": "🍽️"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "24",
+    "en": "example",
+    "zh": "例子",
+    "bpmf": "ㄌㄧˋ ㄗ˙",
+    "repeat": "",
+    "icon": "📝"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "25",
+    "en": "stalk",
+    "zh": "莖、梗",
+    "bpmf": "ㄐㄧㄥ、ㄍㄥˇ",
+    "repeat": "",
+    "icon": "🌿"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "26",
+    "en": "bad",
+    "zh": "壞的",
+    "bpmf": "ㄏㄨㄞˋ ㄉㄜ˙",
+    "repeat": "",
+    "icon": "👎"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "27",
+    "en": "farmer",
+    "zh": "農夫",
+    "bpmf": "ㄋㄨㄥˊ ㄈㄨ",
+    "repeat": "",
+    "icon": "🧑‍🌾"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "28",
+    "en": "plant / planting",
+    "zh": "植物／種植",
+    "bpmf": "ㄓˊ ㄨˋ／ㄓㄨㄥˋ ㄓˊ",
+    "repeat": "",
+    "icon": "🌱"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "29",
+    "en": "lettuce",
+    "zh": "萵苣、生菜",
+    "bpmf": "ㄨㄛ ㄐㄩˋ、ㄕㄥ ㄘㄞˋ",
+    "repeat": "",
+    "icon": "🥬"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "30",
+    "en": "beef",
+    "zh": "牛肉",
+    "bpmf": "ㄋㄧㄡˊ ㄖㄡˋ",
+    "repeat": "",
+    "icon": "🥩"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "31",
+    "en": "chuck",
+    "zh": "肩胛肉",
+    "bpmf": "ㄐㄧㄢ ㄐㄧㄚˇ ㄖㄡˋ",
+    "repeat": "",
+    "icon": "🥩"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "32",
+    "en": "cooked",
+    "zh": "煮熟的",
+    "bpmf": "ㄓㄨˇ ㄕㄡˊ ㄉㄜ˙",
+    "repeat": "",
+    "icon": "🍳"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "33",
+    "en": "raw",
+    "zh": "生的",
+    "bpmf": "ㄕㄥ ㄉㄜ˙",
+    "repeat": "",
+    "icon": "🥩"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "34",
+    "en": "ground",
+    "zh": "磨碎的、絞碎的",
+    "bpmf": "ㄇㄛˊ ㄙㄨㄟˋ ㄉㄜ˙、ㄐㄧㄠˇ ㄙㄨㄟˋ ㄉㄜ˙",
+    "repeat": "",
+    "icon": "⚙️"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "35",
+    "en": "raw ground beef",
+    "zh": "生絞牛肉",
+    "bpmf": "ㄕㄥ ㄐㄧㄠˇ ㄋㄧㄡˊ ㄖㄡˋ",
+    "repeat": "",
+    "icon": "🥩"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "36",
+    "en": "chunk",
+    "zh": "大塊、塊",
+    "bpmf": "ㄉㄚˋ ㄎㄨㄞˋ、ㄎㄨㄞˋ",
+    "repeat": "",
+    "icon": "🧱"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "37",
+    "en": "cow",
+    "zh": "牛",
+    "bpmf": "ㄋㄧㄡˊ",
+    "repeat": "",
+    "icon": "🐄"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "38",
+    "en": "turn into",
+    "zh": "變成",
+    "bpmf": "ㄅㄧㄢˋ ㄔㄥˊ",
+    "repeat": "",
+    "icon": "🔄"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "39",
+    "en": "bun",
+    "zh": "小圓麵包、漢堡麵包",
+    "bpmf": "ㄒㄧㄠˇ ㄩㄢˊ ㄇㄧㄢˋ ㄅㄠ、ㄏㄢˋ ㄅㄠˇ ㄇㄧㄢˋ ㄅㄠ",
+    "repeat": "",
+    "icon": "🍞"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "40",
+    "en": "dough",
+    "zh": "麵糰",
+    "bpmf": "ㄇㄧㄢˋ ㄊㄨㄢˊ",
+    "repeat": "",
+    "icon": "🥖"
+  },
+  {
+    "lesson": "Lesson 6",
+    "no": "41",
+    "en": "grain",
+    "zh": "穀物",
+    "bpmf": "ㄍㄨˇ ㄨˋ",
+    "repeat": "",
+    "icon": "🌾"
   }
 ];
+
